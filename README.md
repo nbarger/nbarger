@@ -1,6 +1,6 @@
-### Wassup?
+### Hey
 
-I'm Noah Barger, a 16 year old programmer who's been at it for about 6 years.
+I'm Noah, a 16 year old programmer who's been at it for about 6 years.
 
 My main two fields are software development and game development.
 
