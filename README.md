@@ -9,3 +9,5 @@ I mainly program in C, Python, and Java, although I can use most other programmi
 I use Ubu- I mean, *Debian* Linux running on a 2015 intel iMac. I use AwesomeWM. 
 
 I am (slowly) working on CanoOS, an operating system, and I like messing around witb low-level technologies.
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,debian,godot,java,linux,neovim,py,)
